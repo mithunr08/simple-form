@@ -1,0 +1,25 @@
+h3{
+    text-align: center;
+    text-decoration:underline;
+    color: rgb(233, 39, 25);
+    background-color: beige;
+    border:2px dashed rgb(51, 164, 202);
+    margin:auto 28% auto;
+    padding: 11px;
+}
+img{
+    margin-left: 28.5%;
+    padding-top: 11px ;
+    box-shadow: 8px 5px 15px  rgb(139, 87, 144);
+}
+div, ul{
+    margin-left: 28.5%;
+}
+a:hover{
+    background-color:rgb(236, 150, 119);
+}
+footer{
+    margin-left: 61%;
+    background-color: crimson;
+    margin-right: 28.5%;
+}
